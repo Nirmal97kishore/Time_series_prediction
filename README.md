@@ -17,6 +17,6 @@ This dataset contains (2015-2020) sales
   • ReduceLROnPlateau
     Hyperparameter tuning 
   I have adjust the epochs count=80, batch_size=20, learning rate=0.001 ,adding 
-hidden layer units , Dropout function and callback functions like (Early stopping) to tune 
+hidden layer units, Dropout function, and callback functions like (Early stopping) to tune 
 the model and prevent that model learn less Noice and more Signals to avoid underfitting 
 or overfitting.
